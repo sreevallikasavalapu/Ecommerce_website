@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LGpUbY5ik36w1mdSUx0W1LvOND3FvtVtp/C1F+vIavI=",
+  "Source": "ecommerce_appln",
+  "BasePath": "_content/ecommerce_appln",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
